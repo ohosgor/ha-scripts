@@ -21,7 +21,7 @@ scene: !include scenes.yaml
 
 homeassistant:
   external_url: "https://home.hosgor.cloud"
-  internal_url: "http://192.168.1.146:8123"
+  internal_url: "http://192.168.1.146:80"
 
 http:
   use_x_forwarded_for: true
